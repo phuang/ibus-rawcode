@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/ibus/issues/entry\n"
-"POT-Creation-Date: 2009-02-05 16:27+0800\n"
+"POT-Creation-Date: 2010-02-04 07:33+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,10 +16,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/main.c:46
+#: src/main.c:55
 msgid "Rawcode input method"
 msgstr ""
 
-#: src/main.c:55 src/main.c:56
+#: src/main.c:64 src/main.c:65
 msgid "Rawcode Input Method"
 msgstr ""
